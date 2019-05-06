@@ -1,0 +1,7 @@
+C:\Users\parker\source\repos\socket-serv\socket-serv\bin\Debug\socket-serv.exe.config
+C:\Users\parker\source\repos\socket-serv\socket-serv\bin\Debug\socket-serv.exe
+C:\Users\parker\source\repos\socket-serv\socket-serv\bin\Debug\socket-serv.pdb
+C:\Users\parker\source\repos\socket-serv\socket-serv\obj\Debug\socket-serv.csprojAssemblyReference.cache
+C:\Users\parker\source\repos\socket-serv\socket-serv\obj\Debug\socket-serv.csproj.CoreCompileInputs.cache
+C:\Users\parker\source\repos\socket-serv\socket-serv\obj\Debug\socket-serv.exe
+C:\Users\parker\source\repos\socket-serv\socket-serv\obj\Debug\socket-serv.pdb
